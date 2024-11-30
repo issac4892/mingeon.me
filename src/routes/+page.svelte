@@ -3,6 +3,10 @@
   <div class="soon">COMING SOON</div>
 </div>
 
+<svelte:head>
+  <title>Mingeon Kim</title>
+</svelte:head>
+
 <style>
   .container {
     width: 100%;
