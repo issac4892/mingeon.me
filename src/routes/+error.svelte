@@ -8,7 +8,7 @@
 
 <div class="container">
   <div class="emphasis">{$page.status}</div>
-  <div class="soon">{$page.error}</div>
+  <div class="soon">{$page.error?.message}</div>
 </div>
 
 <style>
