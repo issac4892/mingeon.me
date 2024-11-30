@@ -1,3 +1,3 @@
-# MINGEON.ME
+# mingeon.me
 
 Personal website
