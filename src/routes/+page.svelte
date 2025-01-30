@@ -1,6 +1,6 @@
 <div class="container">
   <div class="emphasis">Mingeon Kim</div>
-  <div class="soon">COMING SOON</div>
+  <div class="soon">me [at] mingeon.me</div>
 </div>
 
 <style>
